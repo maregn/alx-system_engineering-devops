@@ -1,0 +1,1 @@
+0 - create a script that change your ID to betty. 1- write a script private that way. 2- write the script now the format.  3- the script is best code.  4- the script is execute permission to owner and group owner.
